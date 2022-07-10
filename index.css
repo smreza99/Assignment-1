@@ -1,0 +1,117 @@
+
+.f1{
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+
+}
+.f1{
+    color: ghostwhite;
+    text-align: center;
+
+}
+.btn{
+    color: aqua;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 5px;
+   
+}
+.f2{
+    text-align: center;
+
+}
+.f2 span{
+    color: gray;
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+    border-radius: 5px;
+}
+.section1{
+    text-align: center;
+
+}
+.card-view{
+    display: flex;
+    box-sizing: border-box;
+}
+.card1{
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.card2{
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.card3{
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    margin: 10px;
+    padding: 10px;
+    border: 5px;
+    border-radius: 5px;
+    background-color: gray;
+}
+.section2{
+    text-align: center;
+    display: flex;
+    margin-top: 50px;
+    margin: 10px;
+    padding: 20px;
+    border: 5px;
+    
+}
+.section2 div1{
+    width: 50%;
+}
+.section2 div2{
+    width: 50%;
+    
+    
+}
+.img11{
+    background-size: 200px;
+}
+.section3{
+    text-align: center;
+    display: flex;
+   
+    padding: 20px;
+    border: 10px;
+
+}
+.section3 .img3{
+    width: 50%;
+    background-size: 200px;
+}
+.last{
+    text-align: center;
+}
+#email{
+    color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    font-family: 'Edu TAS Beginner', cursive;
+}
